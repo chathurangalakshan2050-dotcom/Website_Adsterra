@@ -1,0 +1,6 @@
+{
+  "name": "PulseHub — Viral Utility & Fun Hub",
+  "description": "High-engagement utility and viral mini-game hub with instant password generator, word counter, QR generator, reaction tester, and ad placement architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
